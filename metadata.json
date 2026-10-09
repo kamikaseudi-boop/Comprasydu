@@ -1,0 +1,6 @@
+{
+  "name": "Lista de Compras com Conferência",
+  "description": "Aplicativo simples, seguro e funcional para listas de compras com cálculo automático, controle de acesso e conferência no caixa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
